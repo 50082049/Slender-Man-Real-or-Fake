@@ -1,37 +1,133 @@
-## Welcome to GitHub Pages
+### Slender man
 
-You can use the [editor on GitHub](https://github.com/50082049/Slender-Man-Real-or-Fake/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+ <img src="https://bloody-disgusting.com/wp-content/uploads/2018/07/slender-man-trailer-2.png" alt="Trulli" width="700" height="333">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Describtion
+Because the Slender Man's fictional "mythology" has evolved without an official "canon" for reference, his appearance, motives, habits, and abilities are not fixed but change depending on the storyteller. He is most commonly described as very tall and thin with unnaturally long, tentacle-like arms (or merely tentacles), which he can extend to intimidate or capture prey. In most stories his face is white and featureless, but occasionally his face appears differently to anyone who sees it. He appears to be wearing a dark suit and tie. The Slender Man is often associated with the forest and/or abandoned locations and has the ability to teleport. Proximity to the Slender Man is often said to trigger a "Slender sickness"; a rapid onset of paranoia, nightmares and delusions accompanied by nosebleeds.
 
-### Markdown
+Early stories featured him targeting children or young adults. Some featured young adults driven insane or to act on his behalf, while others did not, and others claim that investigating the Slender Man will draw his attention. The web series Marble Hornets established the idea of proxies (humans who fall under the Slender Man's influence) though initially they were simply violently insane, rather than puppets of the Slender Man. Marble Hornets also introduced the idea that the Slender Man could interfere with video and audio recordings, as well as the "Slender Man symbol", which became a common trope of Slender fiction.Graphic violence and body horror are uncommon in the Slender Man mythos, with many narratives choosing to leave the fate of his victims obscure. Shira Chess notes that "It is important to note that few of the retellings identify exactly what kind of monster the Slender Man might be, and what his specific intentions are- these points all remain mysteriously and usefully vague.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### where it all began
+
+The Slender Man was created on June 10, 2009, on a thread in the Something Awful Internet forum. The thread was a Photoshop contest in which users were challenged to "create paranormal images." Forum poster Eric Knudsen, under the pseudonym "Victor Surge", contributed two black-and-white images of groups of children to which he added a tall, thin, spectral figure wearing a black suit. Although previous entries had consisted solely of photographs, Surge supplemented his submission with snatches of text—supposedly from witnesses—describing the abductions of the groups of children and giving the character the name "The Slender Man":
+
+The quote under the first photograph read:
+
+We didn't want to go, we didn't want to kill them, but its persistent silence and outstretched arms horrified and comforted us at the same time…
+
+— 1983, photographer unknown, presumed dead.
+The quote under the second photograph read:
+
+One of two recovered photographs from the Stirling City Library blaze. Notable for being taken the day which fourteen children vanished and for what is referred to as “The Slender Man”. Deformities cited as film defects by officials. Fire at library occurred one week later. Actual photograph confiscated as evidence.
+
+— 1986, photographer: Mary Thomas, missing since June 13th, 1986.
+These additions effectively transformed the photographs into a work of fiction. Subsequent posters expanded upon the character, adding their own visual or textual contributions.
+
+Knudsen was inspired to create the Slender Man primarily by Zack Parsons' "That Insidious Beast", Stephen King's The Mist, reports of shadow people, Mothman and the Mad Gasser of Mattoon. Other inspirations for the character were the Tall Man from the 1979 film Phantasm, H. P. Lovecraft, the surrealist work of William S. Burroughs, and the survival horror video games Silent Hill and Resident Evil. Knudsen's intention was "to formulate something whose motivations can barely be comprehended, and [which caused] unease and terror in a general population." Other pre-existing fictional or legendary creatures which are similar to the Slender Man include: the Gentlemen, black-suited, pale, bald demons from the Buffy the Vampire Slayer episode "Hush"; Men in black, many accounts of which grant them an uncanny appearance with an unnatural walk and "oriental" features; and The Question, a DC Comics superhero with a blank face, whose secret identity is "Victor Sage", a name similar to Knudsen's alias "Victor Surge".
+
+In her book, Folklore, Horror Stories, and the Slender Man: The Development of an Internet Mythology, Professor Shira Chess of the University of Georgia connected the Slender Man to ancient folklore about fairies. Like fairies, Slender Man is otherworldly, with motives that are often difficult to grasp; like fairies, his appearance is vague and often shifts to reflect what the viewer wants or fears to see, and, like fairies, the Slender Man calls the woods and wild places his home and kidnaps children.
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Slender Man's apperance and involvments
 
-- Bulleted
-- List
+The Slender Man (also known as Slenderman) is a fictional supernatural character that originated as a creepypasta Internet meme created by Something Awful forums user Eric Knudsen (also known as "Victor Surge") in 2009. It is depicted as a thin, unnaturally tall humanoid with a featureless head and face and wearing a black suit.
 
-1. Numbered
-2. List
+Stories of the Slender Man commonly feature him stalking, abducting or traumatizing people, particularly children. The Slender Man is not confined to a single narrative but appears in many disparate works of fiction, typically composed online. Fiction relating to the Slender Man encompasses many media, including literature, art and video series such as Marble Hornets, wherein he is known as The Operator. Outside of online fiction, the Slender Man has become an internet icon and has influenced popular culture, having been referenced in the video game Minecraft with the Enderman character and generated video games of his own, such as Slender: The Eight Pages and Slender: The Arrival. He has also appeared in a film adaptation of Marble Hornets, where he was portrayed by Doug Jones, and an eponymous film, where he was portrayed by Javier Botet.
 
-**Bold** and _Italic_ and `Code` text
+Beginning in 2014, a moral panic occurred over the Slender Man after readers of his fiction were connected to several violent acts, particularly a near-fatal stabbing of a 12-year-old girl in Waukesha, Wisconsin.
 
-[Link](url) and ![Image](src)
+## Slender Man's Folk lore
+
+Several scholars have argued that, despite being a fictional work with an identifiable origin point, the Slender Man represents a form of digital folklore. Shira Chess argues that the Slender Man exemplifies the similarities between traditional folklore and the open source ethos of the Internet, and that, unlike those of traditional monsters such as vampires and werewolves, the fact that the Slender Man's mythos can be tracked and signposted offers a powerful insight into how myth and folklore form. Chess identifies three aspects of the Slender Man mythos that tie it to folklore: collectivity (meaning that it is created by a collective, rather than a single individual), variability (meaning that the story changes depending on the teller), and performance (meaning that the storyteller's narrative changes to reflect the responses of his/her audience).
+
+Andrew Peck also considers the Slender Man to be an authentic form of folklore and notes its similarity to emergent forms of offline legend performance. Peck suggests that digital folklore performance extends the dynamics of face-to-face performance in several notable ways, such as by occurring asynchronously, encouraging imitation and personalization while also allowing perfect replication, combining elements of oral, written, and visual communication, and generating shared expectations for performance that enact group identity despite the lack of a physically present group. He concludes that the Slender Man represents a digital legend cycle that combines the generic conventions and emergent qualities of oral and visual performance with the collaborative potential of networked communication.
+
+Jeff Tolbert also accepts the Slender Man as folkloric and suggests it represents a process he calls “reverse ostension.” Ostension in folkloristics is the process of acting out a folk narrative. According to Tolbert, the Slender Man does the opposite by creating a set of folklore-like narratives where none existed before. It is an iconic figure produced through a collective effort and deliberately modeled after an existing and familiar folklore genre. According to Tolbert, this represents two processes in one: it involves the creation of new objects and new disconnected examples of experience, and it involves the combination of these elements into a body of “traditional” narratives, modeled on existing folklore (but not wholly indebted to any specific tradition).
+
+Professor Thomas Pettitt of the University of Southern Denmark has described the Slender Man as being an exemplar of the modern age's closing of the "Gutenberg Parenthesis"; the time period from the invention of the printing press to the spread of the web in which stories and information were codified in discrete media, to a return to the older, more primal forms of storytelling, exemplified by oral tradition and campfire tales, in which the same story can be retold, reinterpreted and recast by different tellers, expanding and evolving with time
+
+### Slender Man's in fluence 
+
+On May 31, 2014, two 12-year-old girls in Waukesha, Wisconsin held down and stabbed a 12-year-old classmate 19 times. When questioned later by authorities, they reportedly claimed that they wished to commit a murder as a first step to becoming proxies for the Slender Man, having read about it online. They also stated that they were afraid that Slender Man would kill their families if they did not commit the murder. After the perpetrators left the scene, the victim crawled out of the woods to a roadway. A passing cyclist alerted authorities, and the victim survived the attack. Both attackers have been diagnosed with mental illnesses but have also been charged as adults and are each facing up to 65 years in prison. One of the girls reportedly said Slender Man watches her, can read minds, and could teleport.
+
+Experts testified in court that she also said she conversed with Lord Voldemort and one of the Teenage Mutant Ninja Turtles. On August 1, 2014, she was found incompetent to stand trial and her prosecution was suspended until her condition improved. On November 12, 2014, a doctor judged that her condition had improved enough for her to stand trial, and on December 19, 2014, the judge ruled that both girls were competent to stand trial. In August 2015, the presiding judge ruled that the girls would be tried as adults. They were tried separately. On August 21, 2017, one of the girls, now 15, pleaded guilty to being a party to attempted second-degree homicide, but claimed she was not responsible for her actions on grounds of insanity. Although prosecutors alleged that she knew what she was doing was wrong, the jury determined that she was mentally ill during the attack. She will spend at least three years in a mental hospital. On December 21, Waukesha County Circuit Judge Michael Bohren sentenced Weier,[clarification needed] then 16 years-old, to be hospitalized for 25 years from the date of the crime, which would keep her institutionalized until age 37.
+
+In a statement to the media, Eric Knudsen said, "I am deeply saddened by the tragedy in Wisconsin and my heart goes out to the families of those affected by this terrible act." He stated he would not be giving interviews on the matter.
+
+On 25 September 2017, it was reported that Morgan Geyser, then 15, had agreed to plead guilty to attempting to commit first-degree homicide in an arrangement that would allow her avoid jail time. In terms of the arrangement Geyser would remain at the mental hospital where she had been staying for the past two years for at least a further three years.
+
+On February 1, 2018, the Associated Press reported that Geyser had been sentenced to 40 years in the Wisconsin mental hospital, the maximum sentence allowed.
+
+A documentary film on the incident called Beware the Slenderman was released by HBO Films in March 2016, and was broadcast on HBO on January 23, 2017.
+
+## other incidents
+
+After hearing the story, an unidentified woman from Cincinnati, Ohio, told a WLWT TV reporter in June 2014 that her 13-year-old daughter had attacked her with a knife, and had written macabre fiction, some involving the Slender Man, who the mother said motivated the attack.
+
+On September 4, 2014, a 14-year-old girl in Port Richey, Florida, allegedly set her family's house on fire while her mother and nine-year-old brother were inside. Police reported that the teenager had been reading online stories about Slender Man as well as Atsushi Ōkubo's manga Soul Eater. Eddie Daniels of the Pasco County Sheriff's Office said the girl "had visited the website that contains a lot of the Slender Man information and stories [...] It would be safe to say there is a connection to that."
+
+During an early 2015 epidemic of suicide attempts by young people ages 12 to 24 on the Pine Ridge Indian Reservation, Slender Man was cited as an influence; the Oglala Sioux tribe president noted that many Native Americans traditionally believe in a "suicide spirit" similar to the Slender Man.
+
+## Slender Man's Symbol
+
+<img src="data:image/jpeg;base64,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" alt="Trulli" width="500" height="333">
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### A way to Summon the Slender Man 
+## (Don't Try this if you know you will be in danger)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/50082049/Slender-Man-Real-or-Fake/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Their is a way to summon the Slender Man this technuige is said to work better at night but then again dont try this if you feel like if you are going to put your self in danger.
 
-### Support or Contact
+## Materials
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- A Tree
+- A Knife
+or
+- A thick Permanent Marker
+- and A Blank Wall
+
+Step 1. Go into the woods and carve a circle and an x through it
+
+Step 2. Or this may also be done on a blank wall with a thick permanent marker
+then Turn off the lights
+
+Step 3. Then chant: Slenderman, Slenderman, all the children try to run, 
+        Slenderman, Slenderman, to him its part of the fun.
+        Slenderman, Slenderman, dressed in dark his suit and tie
+        Slenderman, Slenderman, you most certainly will die
+        
+ Step 4. Turn around
+ 
+ ## examples for the Symbol and Sufaces
+ 
+ <img src="https://vignette.wikia.nocookie.net/theslenderman/images/3/31/Operatorsymbol.png/revision/latest?cb=20111022223616" alt="Trulli" width="500" height="333">
+ 
+## Knifes that should be best used for the process
+
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaYPJSWlhN0_xp2kT2463Ulx4OP2YSiZSzHLbyQqd1evg06TxZ3w" alt="Trulli" width="500" height="333">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzRH2bu4fuqbf58nkl8L3sisTpN_OeYc8NWMndmvLsNpn500Fz" alt="Trulli" width="500" height="333">
+
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8e9At0Qvpe--7lh3LI-6oTEa0dCV7Cw8pnxbVGB5xeN6Qs9ipw" alt="Trulli" width="500" height="333">
+
+### Warining be careful when using sharp and cutting obejects for they could lead to injury and fatal acidents
+
+## Slender Man's Popularity and featurings.
+
+Slender man the arrival
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=8VJSn5wa2J4&t=4s">
+</iframe>
+<iframe width="715" height="402" src="https://www.youtube.com/embed/8VJSn5wa2J4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                                                
+Slender the eight pages
+https://youtu.be/8BoweLeiH0Y
+
+Always watches A marble Hornet Story
+<img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUTExIVFRUWFxoWFxcWGRYXFRcYFxUWFxcYFRcYHSggGRolHRgVITEhJSkrLi4uFx8zODMsNygtLisBCgoKDg0OGxAQGy8lHyUtLS8vLS0tLy0tLS0vLS0tLS0tLS0uLS8tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAQsAvQMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAADAQIEBQYABwj/xABGEAACAQIDBAcFBAgFAQkAAAABAgMAEQQSIQUxQVEGEyJhcYGRFDKhsfAHUsHRI0JTYnKCkuEVJDPS8UM0RFSTorKz0+L/xAAaAQACAwEBAAAAAAAAAAAAAAACAwEEBQAG/8QAMhEAAgIBAwIDBgUEAwAAAAAAAAECEQMEEiExQRNRYQUiocHR8BQygZHhQnGx8RUjYv/aAAwDAQACEQMRAD8A8apa4V1QOFFcBXXrqgk4UtLXCuJQtq6318KWt70B2YpiAlgZ02gz4dnCM4ghUWSW6iyk4grqdwhPjXHN0YjCYV5XEcaF3Y2VV94nkBxPdT5sJIjmJkYSA2KWuwPKw491WvR3BvDtXCwyi0kWOhjcfvLiEBtzB3juNR+kl/bcYQSp9qnII0YHrmsb86gJPmkQDEymzKynf2gQfQilra9JcL7fPgcWTlXGwgYh/uSYUEYknlaNcw8Kjbdwo2gcNicPCIlncYN0T3YnU2izDheHKSd3YO6oaCjkVGamhdLZkZLgkZ1K37xm30/CQSOzKqOzi91VWZhY2N1AuLca0uHIxm0ZJVXNDhUzxoWAUx4YCPDR5m0AkcR3/ibfvo3TOKVJ8PtGMmGTEKHYxlT1WKiAWZQyXFmsHsTrmahaVDY5Zb0u/wB8GTEZvbKbjs2sb5t1rWvfhbfUxcFLm6vqZOt94x9W+e3ElbXC99aXF9SwG1wqi75Hw2uX28AMGGljCVPXW5qV46Qdi42GQYmHFzvGcWY29qa7WkjZjlnG8xNn14DKDwoXHsWI5XtckunX79CsxUbp2WRkf7rqVPmGFwCKFG/Mab7/AIfOrDbmBlgkGHntdEGRgxdGjN2QxPxjN2t5jhUaTQdk3013Up+Row95KVgXRibjlupVb030+Ekk3vpz4U+SEW76hsOMb95A5IyfWmy+7a1ShcDhehTW58e6uTCnjVEEMb/8U1nzcQKIy9o2A5V2XwHoKMp0+hQg1Y7Dhw8kyx4h5Y0dlUPGEOTMbZnDb1FxuPOq+ucXFWjCZpen3RtNn4kYZXkc5A
