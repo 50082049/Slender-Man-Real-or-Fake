@@ -127,7 +127,10 @@ src="https://www.youtube.com/watch?v=8VJSn5wa2J4&t=4s">
 <iframe width="715" height="402" src="https://www.youtube.com/embed/8VJSn5wa2J4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                                                 
 Slender the eight pages
-https://youtu.be/8BoweLeiH0Y
+<iframe width="718" height="402" src="https://www.youtube.com/embed/8BoweLeiH0Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Always watches A marble Hornet Story
 <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUTExIVFRUWFxoWFxcWGRYXFRcYFxUWFxcYFRcYHSggGRolHRgVITEhJSkrLi4uFx8zODMsNygtLisBCgoKDg0OGxAQGy8lHyUtLS8vLS0tLy0tLS0vLS0tLS0tLS0uLS8tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAQsAvQMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAADAQIEBQYABwj/xABGEAACAQIDBAcFBAgFAQkAAAABAgMAEQQSIQUxQVEGEyJhcYGRFDKhsfAHUsHRI0JTYnKCkuEVJDPS8UM0RFSTorKz0+L/xAAaAQACAwEBAAAAAAAAAAAAAAACAwEEBQAG/8QAMhEAAgIBAwIDBgUEAwAAAAAAAAECEQMEEiExQRNRYQUiocHR8BQygZHhQnGx8RUjYv/aAAwDAQACEQMRAD8A8apa4V1QOFFcBXXrqgk4UtLXCuJQtq6318KWt70B2YpiAlgZ02gz4dnCM4ghUWSW6iyk4grqdwhPjXHN0YjCYV5XEcaF3Y2VV94nkBxPdT5sJIjmJkYSA2KWuwPKw491WvR3BvDtXCwyi0kWOhjcfvLiEBtzB3juNR+kl/bcYQSp9qnII0YHrmsb86gJPmkQDEymzKynf2gQfQilra9JcL7fPgcWTlXGwgYh/uSYUEYknlaNcw8Kjbdwo2gcNicPCIlncYN0T3YnU2izDheHKSd3YO6oaCjkVGamhdLZkZLgkZ1K37xm30/CQSOzKqOzi91VWZhY2N1AuLca0uHIxm0ZJVXNDhUzxoWAUx4YCPDR5m0AkcR3/ibfvo3TOKVJ8PtGMmGTEKHYxlT1WKiAWZQyXFmsHsTrmahaVDY5Zb0u/wB8GTEZvbKbjs2sb5t1rWvfhbfUxcFLm6vqZOt94x9W+e3ElbXC99aXF9SwG1wqi75Hw2uX28AMGGljCVPXW5qV46Qdi42GQYmHFzvGcWY29qa7WkjZjlnG8xNn14DKDwoXHsWI5XtckunX79CsxUbp2WRkf7rqVPmGFwCKFG/Mab7/AIfOrDbmBlgkGHntdEGRgxdGjN2QxPxjN2t5jhUaTQdk3013Up+Row95KVgXRibjlupVb030+Ekk3vpz4U+SEW76hsOMb95A5IyfWmy+7a1ShcDhehTW58e6uTCnjVEEMb/8U1nzcQKIy9o2A5V2XwHoKMp0+hQg1Y7Dhw8kyx4h5Y0dlUPGEOTMbZnDb1FxuPOq+ucXFWjCZpen3RtNn4kYZXkc5A
+ 
+Slender Man the 2018 Movie
+<iframe width="715" height="402" src="https://www.youtube.com/embed/62uaCqVluAU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
