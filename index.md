@@ -1,6 +1,6 @@
 ### Slender man
 
- <img src="https://bloody-disgusting.com/wp-content/uploads/2018/07/slender-man-trailer-2.png" alt="Trulli" width="500" height="333">
+ <img src="https://bloody-disgusting.com/wp-content/uploads/2018/07/slender-man-trailer-2.png" alt="Trulli" width="900" height="400">
 
 ## Describtion
 Because the Slender Man's fictional "mythology" has evolved without an official "canon" for reference, his appearance, motives, habits, and abilities are not fixed but change depending on the storyteller. He is most commonly described as very tall and thin with unnaturally long, tentacle-like arms (or merely tentacles), which he can extend to intimidate or capture prey. In most stories his face is white and featureless, but occasionally his face appears differently to anyone who sees it. He appears to be wearing a dark suit and tie. The Slender Man is often associated with the forest and/or abandoned locations and has the ability to teleport. Proximity to the Slender Man is often said to trigger a "Slender sickness"; a rapid onset of paranoia, nightmares and delusions accompanied by nosebleeds.
@@ -130,7 +130,8 @@ Slender the eight pages
 <iframe width="718" height="402" src="https://www.youtube.com/embed/8BoweLeiH0Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Always watches A marble Hornet Story
-<img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUTExIVFRUWFxoWFxcWGRYXFRcYFxUWFxcYFRcYHSggGRolHRgVITEhJSkrLi4uFx8zODMsNygtLisBCgoKDg0OGxAQGy8lHyUtLS8vLS0tLy0tLS0vLS0tLS0tLS0uLS8tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAQsAvQMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAADAQIEBQYABwj/xABGEAACAQIDBAcFBAgFAQkAAAABAgMAEQQSIQUxQVEGEyJhcYGRFDKhsfAHUsHRI0JTYnKCkuEVJDPS8UM0RFSTorKz0+L/xAAaAQACAwEBAAAAAAAAAAAAAAACAwEEBQAG/8QAMhEAAgIBAwIDBgUEAwAAAAAAAAECEQMEEiExQRNRYQUiocHR8BQygZHhQnGx8RUjYv/aAAwDAQACEQMRAD8A8apa4V1QOFFcBXXrqgk4UtLXCuJQtq6318KWt70B2YpiAlgZ02gz4dnCM4ghUWSW6iyk4grqdwhPjXHN0YjCYV5XEcaF3Y2VV94nkBxPdT5sJIjmJkYSA2KWuwPKw491WvR3BvDtXCwyi0kWOhjcfvLiEBtzB3juNR+kl/bcYQSp9qnII0YHrmsb86gJPmkQDEymzKynf2gQfQilra9JcL7fPgcWTlXGwgYh/uSYUEYknlaNcw8Kjbdwo2gcNicPCIlncYN0T3YnU2izDheHKSd3YO6oaCjkVGamhdLZkZLgkZ1K37xm30/CQSOzKqOzi91VWZhY2N1AuLca0uHIxm0ZJVXNDhUzxoWAUx4YCPDR5m0AkcR3/ibfvo3TOKVJ8PtGMmGTEKHYxlT1WKiAWZQyXFmsHsTrmahaVDY5Zb0u/wB8GTEZvbKbjs2sb5t1rWvfhbfUxcFLm6vqZOt94x9W+e3ElbXC99aXF9SwG1wqi75Hw2uX28AMGGljCVPXW5qV46Qdi42GQYmHFzvGcWY29qa7WkjZjlnG8xNn14DKDwoXHsWI5XtckunX79CsxUbp2WRkf7rqVPmGFwCKFG/Mab7/AIfOrDbmBlgkGHntdEGRgxdGjN2QxPxjN2t5jhUaTQdk3013Up+Row95KVgXRibjlupVb030+Ekk3vpz4U+SEW76hsOMb95A5IyfWmy+7a1ShcDhehTW58e6uTCnjVEEMb/8U1nzcQKIy9o2A5V2XwHoKMp0+hQg1Y7Dhw8kyx4h5Y0dlUPGEOTMbZnDb1FxuPOq+ucXFWjCZpen3RtNn4kYZXkc5A
+
+<img src="http://www.gstatic.com/tv/thumb/v22vodart/11669008/p11669008_v_v8_aa.jpg" alt="Trulli" width="400" height="700">
  
 Slender Man the 2018 Movie
 <iframe width="715" height="402" src="https://www.youtube.com/embed/62uaCqVluAU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
