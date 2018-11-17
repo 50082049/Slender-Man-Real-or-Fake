@@ -121,9 +121,6 @@ Step 3. Then chant: Slenderman, Slenderman, all the children try to run,
 ## Slender Man's Popularity and featurings.
 
 Slender man the arrival
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=8VJSn5wa2J4&t=4s">
-</iframe>
 <iframe width="715" height="402" src="https://www.youtube.com/embed/8VJSn5wa2J4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                                                 
 Slender the eight pages
