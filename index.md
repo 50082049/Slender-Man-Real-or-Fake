@@ -1,6 +1,6 @@
 ### Slender man
 
- <img src="https://bloody-disgusting.com/wp-content/uploads/2018/07/slender-man-trailer-2.png" alt="Trulli" width="900" height="400">
+ <img src="https://bloody-disgusting.com/wp-content/uploads/2018/07/slender-man-trailer-2.png" alt="Trulli" width="800" height="400">
 
 ## Describtion
 Because the Slender Man's fictional "mythology" has evolved without an official "canon" for reference, his appearance, motives, habits, and abilities are not fixed but change depending on the storyteller. He is most commonly described as very tall and thin with unnaturally long, tentacle-like arms (or merely tentacles), which he can extend to intimidate or capture prey. In most stories his face is white and featureless, but occasionally his face appears differently to anyone who sees it. He appears to be wearing a dark suit and tie. The Slender Man is often associated with the forest and/or abandoned locations and has the ability to teleport. Proximity to the Slender Man is often said to trigger a "Slender sickness"; a rapid onset of paranoia, nightmares and delusions accompanied by nosebleeds.
